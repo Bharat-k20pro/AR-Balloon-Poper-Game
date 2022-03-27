@@ -1,2 +1,2 @@
 # AR-Balloon-Poper-Game
-It is an Augmented reality android application game which is made with Unity and Vuforia SDK in which with the help of a trackable cube you can able to pop the balloons in AR and there is also score board. On poping a balloon your score will increase.
+It is a Virtual Reality game. The game is created for smartphone with the same interaction as on any 6 DoF like Oculus or HTC Vive using patented TehcXR Developer Kit. There is a trackable cube in the kit with the help of which you can play the game. In this balloons spawn randomly and you have to pop them to increase your score.
